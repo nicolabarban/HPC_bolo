@@ -16,7 +16,7 @@ export APPTAINER_CACHEDIR=/scratch.hpc/$USER/tinyllama/cache
 export OMP_NUM_THREADS=64
 cd /scratch.hpc/$USER/
 
-apptainer exec --nv tinyllama/container.sif python dgit/tinyllama/example.py
+apptainer exec --nv tinyllama/container.sif python dgit/tinyllama/test_tasks.py
 
 # otherwise: partition=h100sxm5
 # otherwise: partition=h100pcie
