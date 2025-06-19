@@ -1,0 +1,160 @@
+INFO:    User not listed in /etc/subuid, trying root-mapped namespace
+INFO:    fakeroot command not found
+INFO:    Installing some packages may fail
+WARNING: 'nodev' mount option set on /scratch.hpc, it could be a source of failure during build process
+INFO:    Starting build...
+Copying blob sha256:bccd10f490ab0f3fba61b193d1b80af91b17ca9bdca9768a16ed05ce16552fcb
+Copying blob sha256:a2f9ef49a25ec17587ce548bb034e854d3c3847b50c7c0ec87fd51b774c6a493
+Copying blob sha256:6d00df402cf8994d017df480cf527bca28cc69b93d6f81ea7e96bf9b07441814
+Copying blob sha256:18ea39f449f25291fc05392aebbab48a7a069deba6efcda9d4b169a3cbb195ec
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:1c7f2e233b5f061bcfe6d67dcac05f2eeae2b0c0a78d0341e622285ee28096a5
+Copying blob sha256:fe4f2f5145598a2e82f34592f446cced1d1bef24b89ef9ec00feb29cdfea605f
+Copying blob sha256:999f45ff216e6589fdc35cde0c2d6ca405cb4df796c6f93f45e6328fe113ce81
+Copying blob sha256:74e0ce3e6cbf14a08efd073270d5f3a61ca8b69b18d859d18df67f76c4eba27a
+Copying blob sha256:dfae8e751f333b0b5877297ad82ffdcad61cdbac6340203877ed93f8794cbdce
+Copying blob sha256:6b6f1f09276f41292640016f7a3d51c7aed3dd7dc2f16a6f8840ff492a4e77ad
+Copying blob sha256:d9e68ca306194bf3be445e5f130bc1b83aee769bcc7812bc6fc13839f8c12e0a
+Copying blob sha256:02006324a96622da372dce7b0fe79cdceba61442986184b606df4b76793727da
+Copying blob sha256:3d1a32501ee0a43821db9f88e3d249eff4266e2073e462e41def8b3c5a4d9415
+Copying blob sha256:d288c7980a63eb7d5828a7871e172fa07758507297af9840d9558f42efa4217e
+Copying blob sha256:45713d170b891a8f9627b1276b20d7e959ae78fd1dd44961ec22360af3e0b427
+Copying blob sha256:f721866d12a2319a912e1d99b8876d873715be99683aa197727e40a313834927
+Copying blob sha256:f25f9e364356a22dcd92b8a9dbcc97f9b848894390368d4a164e0f131917bcda
+Copying blob sha256:0dd40b19d7e464b0af2ee654315560e2b6930184e94aa8fa8cfa87c813a201dd
+Copying blob sha256:03c2cb17f08067a9fbd461af7449c468765b289f0fa9cd506f25dffe25cdefc5
+Copying blob sha256:51c7e39aafbd46e1cc3874c95fce0cee6c4bd2f05c17912f2e5d27b1e7d9804b
+Copying blob sha256:1311cb24b9352ee168b756fdbaa0b5cac5ed2564dd86b3ca95550d9345ff45b5
+Copying blob sha256:7b7af44a75570b90da3d9fcc081f468eab6da1f02c35223f1f6fb4ec30abb8ef
+Copying blob sha256:fbdb7c06a1a5d19b6e774cbbd7ed0801d476abc563d7e0ad560bef53eb15898a
+Copying blob sha256:9cc53d5db2fe6c700a2c3ce17d5142a6b5cb4ba6f180b9586077351bcb7cafd9
+Copying blob sha256:7ac39c150553b0c6ed79ad9692ee1c648b98d6ce9d8a8d625cae65d784b6ef8e
+Copying blob sha256:02c11b868e4da3c9e60334f1128e08822d58512d8caf38920ceb2ec1deb286b3
+Copying blob sha256:40bce9133b720e24efc94ace894c4baa90c6c84edcbc17c419ce038d175a3f2a
+Copying blob sha256:6ebc306041616a2babbfc6921b5d227976cfe26153599ba8c56e78ef5c717aa4
+Copying blob sha256:86ec4c8d136e6517828628d0420ea639d3a4fd0739ef7b5b2108f4415de42479
+Copying blob sha256:ae4f1b56c14822c67284155b48e13d6ede2da4a3f49302d4dd5068a256b08185
+Copying blob sha256:032928069400691774b99a823c62cf32094f36116cbfce2ae421a1aa1b8599e6
+Copying blob sha256:87d6d146aab7a593f5352baf28c7d7c8921a0738f9c63ef85d60f54e4c7ddddc
+Copying blob sha256:ea8f48694f3d0bd2143d3dafd0b298f01e62241c6ccf1a067d139852f874a6f0
+Copying blob sha256:71026961bb8ee40f59678fd5862347737496bc5c50058b76a78e6734a01af944
+Copying blob sha256:83d66a9664f38ccd9a6b813a2ef9576a4c206029da6d48df1a5bceff77b0702c
+Copying blob sha256:7d8dd7e2f57e00db2412c2b74fdf61366d138eae111b729336547b822c0acc36
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:c36cafae28fea292ebc40c7b2c5db44522993f13b861d151fb5f4764d7a36b47
+Copying blob sha256:f90e97f3f15068c5532db44d7bfde6e95e629e6d288f58e2f414365ce094134a
+Copying blob sha256:e527f99ca48d8913c78e285e02a47069b34237c3a24b2c01a113cd92b1d25168
+Copying blob sha256:0fe31888c480abc1661600a35346eeecdbb44267d94db57412c44f02f7537440
+Copying blob sha256:d04548b4c850825a50feda06589030fc4dd871a1b1a319ffafd8d35acee4e91d
+Copying blob sha256:6048eb210a632d51eb3a17835fbd15d5f1320dde3f2dd79d4ee3587e07cf5267
+Copying blob sha256:3511817454e9553b09cb43f9f11850599255fe11779188952a863542cd24ceb0
+Copying blob sha256:df26a4a09573458c77f44d8bd5352a09d3686863c3806073888d296d3c0a8836
+Copying blob sha256:1161446038f5279255128dae799124fe2c91096c1dede8b56dce2921620a971c
+Copying blob sha256:948c739af44c9ccae60e5e33bd90eec27ba243e71702444bede969c494996b8e
+Copying blob sha256:6867da20795c7c299c8a65080cb3f0db81af84f6ca2cdc75c5866b59f077f31b
+Copying blob sha256:a11733563bf66919d43126eaabf9e6b59ae6d46189e13a79eb00bc86377ef6ff
+Copying blob sha256:b80e6a1a5c364bf9b15d9bfcc5a143e63ab84a4b06c4826c9d8f85b30c3edc75
+Copying config sha256:91f34ff77ac5765b4061c3844a83290c0430a9d305a08f428b6013c1f9228cf4
+Writing manifest to image destination
+2025/06/09 13:17:05  info unpack layer: sha256:bccd10f490ab0f3fba61b193d1b80af91b17ca9bdca9768a16ed05ce16552fcb
+2025/06/09 13:17:24  info unpack layer: sha256:18ea39f449f25291fc05392aebbab48a7a069deba6efcda9d4b169a3cbb195ec
+2025/06/09 13:17:50  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2025/06/09 13:17:50  info unpack layer: sha256:a2f9ef49a25ec17587ce548bb034e854d3c3847b50c7c0ec87fd51b774c6a493
+2025/06/09 13:18:08  info unpack layer: sha256:1c7f2e233b5f061bcfe6d67dcac05f2eeae2b0c0a78d0341e622285ee28096a5
+2025/06/09 13:18:08  info unpack layer: sha256:6d00df402cf8994d017df480cf527bca28cc69b93d6f81ea7e96bf9b07441814
+2025/06/09 13:18:52  info unpack layer: sha256:fe4f2f5145598a2e82f34592f446cced1d1bef24b89ef9ec00feb29cdfea605f
+2025/06/09 13:18:52  info unpack layer: sha256:999f45ff216e6589fdc35cde0c2d6ca405cb4df796c6f93f45e6328fe113ce81
+2025/06/09 13:18:52  info unpack layer: sha256:74e0ce3e6cbf14a08efd073270d5f3a61ca8b69b18d859d18df67f76c4eba27a
+2025/06/09 13:18:53  info unpack layer: sha256:dfae8e751f333b0b5877297ad82ffdcad61cdbac6340203877ed93f8794cbdce
+2025/06/09 13:18:53  info unpack layer: sha256:6b6f1f09276f41292640016f7a3d51c7aed3dd7dc2f16a6f8840ff492a4e77ad
+2025/06/09 13:19:02  info unpack layer: sha256:d9e68ca306194bf3be445e5f130bc1b83aee769bcc7812bc6fc13839f8c12e0a
+2025/06/09 13:19:17  info unpack layer: sha256:02006324a96622da372dce7b0fe79cdceba61442986184b606df4b76793727da
+2025/06/09 13:19:17  info unpack layer: sha256:3d1a32501ee0a43821db9f88e3d249eff4266e2073e462e41def8b3c5a4d9415
+2025/06/09 13:19:31  info unpack layer: sha256:d288c7980a63eb7d5828a7871e172fa07758507297af9840d9558f42efa4217e
+2025/06/09 13:19:40  info unpack layer: sha256:45713d170b891a8f9627b1276b20d7e959ae78fd1dd44961ec22360af3e0b427
+2025/06/09 13:19:50  info unpack layer: sha256:f721866d12a2319a912e1d99b8876d873715be99683aa197727e40a313834927
+2025/06/09 13:19:58  info unpack layer: sha256:f25f9e364356a22dcd92b8a9dbcc97f9b848894390368d4a164e0f131917bcda
+2025/06/09 13:19:58  info unpack layer: sha256:0dd40b19d7e464b0af2ee654315560e2b6930184e94aa8fa8cfa87c813a201dd
+2025/06/09 13:19:58  info unpack layer: sha256:03c2cb17f08067a9fbd461af7449c468765b289f0fa9cd506f25dffe25cdefc5
+2025/06/09 13:31:27  info unpack layer: sha256:51c7e39aafbd46e1cc3874c95fce0cee6c4bd2f05c17912f2e5d27b1e7d9804b
+2025/06/09 13:32:22  info unpack layer: sha256:1311cb24b9352ee168b756fdbaa0b5cac5ed2564dd86b3ca95550d9345ff45b5
+2025/06/09 13:33:11  info unpack layer: sha256:7b7af44a75570b90da3d9fcc081f468eab6da1f02c35223f1f6fb4ec30abb8ef
+2025/06/09 13:33:11  info unpack layer: sha256:fbdb7c06a1a5d19b6e774cbbd7ed0801d476abc563d7e0ad560bef53eb15898a
+2025/06/09 13:33:17  warn rootless{usr/local/nvm/versions/node/v16.20.2/bin/corepack} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:33:17  warn rootless{usr/local/nvm/versions/node/v16.20.2/bin/npm} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:33:17  warn rootless{usr/local/nvm/versions/node/v16.20.2/bin/npx} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:33:46  info unpack layer: sha256:9cc53d5db2fe6c700a2c3ce17d5142a6b5cb4ba6f180b9586077351bcb7cafd9
+2025/06/09 13:33:46  info unpack layer: sha256:7ac39c150553b0c6ed79ad9692ee1c648b98d6ce9d8a8d625cae65d784b6ef8e
+2025/06/09 13:33:47  info unpack layer: sha256:02c11b868e4da3c9e60334f1128e08822d58512d8caf38920ceb2ec1deb286b3
+2025/06/09 13:34:47  info unpack layer: sha256:40bce9133b720e24efc94ace894c4baa90c6c84edcbc17c419ce038d175a3f2a
+2025/06/09 13:34:47  info unpack layer: sha256:6ebc306041616a2babbfc6921b5d227976cfe26153599ba8c56e78ef5c717aa4
+2025/06/09 13:34:51  info unpack layer: sha256:86ec4c8d136e6517828628d0420ea639d3a4fd0739ef7b5b2108f4415de42479
+2025/06/09 13:35:02  info unpack layer: sha256:ae4f1b56c14822c67284155b48e13d6ede2da4a3f49302d4dd5068a256b08185
+2025/06/09 13:35:07  info unpack layer: sha256:032928069400691774b99a823c62cf32094f36116cbfce2ae421a1aa1b8599e6
+2025/06/09 13:35:07  info unpack layer: sha256:87d6d146aab7a593f5352baf28c7d7c8921a0738f9c63ef85d60f54e4c7ddddc
+2025/06/09 13:38:00  info unpack layer: sha256:ea8f48694f3d0bd2143d3dafd0b298f01e62241c6ccf1a067d139852f874a6f0
+2025/06/09 13:38:02  info unpack layer: sha256:71026961bb8ee40f59678fd5862347737496bc5c50058b76a78e6734a01af944
+2025/06/09 13:38:03  info unpack layer: sha256:83d66a9664f38ccd9a6b813a2ef9576a4c206029da6d48df1a5bceff77b0702c
+2025/06/09 13:38:03  info unpack layer: sha256:7d8dd7e2f57e00db2412c2b74fdf61366d138eae111b729336547b822c0acc36
+2025/06/09 13:38:33  warn rootless{usr/lib/libarrow.so} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:33  warn rootless{usr/lib/libarrow.so.1400} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:34  warn rootless{usr/lib/libarrow_acero.so} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:34  warn rootless{usr/lib/libarrow_acero.so.1400} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:34  warn rootless{usr/lib/libarrow_dataset.so} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:34  warn rootless{usr/lib/libarrow_dataset.so.1400} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:48  warn rootless{usr/lib/libparquet.so} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:38:48  warn rootless{usr/lib/libparquet.so.1400} ignoring (usually) harmless EPERM on setxattr "user.rootlesscontainers"
+2025/06/09 13:40:09  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2025/06/09 13:40:09  info unpack layer: sha256:c36cafae28fea292ebc40c7b2c5db44522993f13b861d151fb5f4764d7a36b47
+2025/06/09 13:40:09  info unpack layer: sha256:f90e97f3f15068c5532db44d7bfde6e95e629e6d288f58e2f414365ce094134a
+2025/06/09 13:40:09  info unpack layer: sha256:e527f99ca48d8913c78e285e02a47069b34237c3a24b2c01a113cd92b1d25168
+2025/06/09 13:40:10  info unpack layer: sha256:0fe31888c480abc1661600a35346eeecdbb44267d94db57412c44f02f7537440
+2025/06/09 13:40:12  info unpack layer: sha256:d04548b4c850825a50feda06589030fc4dd871a1b1a319ffafd8d35acee4e91d
+2025/06/09 13:40:13  info unpack layer: sha256:6048eb210a632d51eb3a17835fbd15d5f1320dde3f2dd79d4ee3587e07cf5267
+2025/06/09 13:40:14  info unpack layer: sha256:3511817454e9553b09cb43f9f11850599255fe11779188952a863542cd24ceb0
+2025/06/09 13:40:17  info unpack layer: sha256:df26a4a09573458c77f44d8bd5352a09d3686863c3806073888d296d3c0a8836
+2025/06/09 13:40:35  info unpack layer: sha256:1161446038f5279255128dae799124fe2c91096c1dede8b56dce2921620a971c
+2025/06/09 13:40:38  info unpack layer: sha256:948c739af44c9ccae60e5e33bd90eec27ba243e71702444bede969c494996b8e
+2025/06/09 13:40:40  info unpack layer: sha256:6867da20795c7c299c8a65080cb3f0db81af84f6ca2cdc75c5866b59f077f31b
+2025/06/09 13:40:44  info unpack layer: sha256:a11733563bf66919d43126eaabf9e6b59ae6d46189e13a79eb00bc86377ef6ff
+2025/06/09 13:40:44  info unpack layer: sha256:b80e6a1a5c364bf9b15d9bfcc5a143e63ab84a4b06c4826c9d8f85b30c3edc75
+INFO:    Running post scriptlet
++ test -f /etc/shinit_v2
++ source /etc/shinit_v2
++++ sed -n 's/^NVRM.*Kernel Module\( for [a-z0-9_]*\| \) *\([^() ]*\).*$/\2/p' /proc/driver/nvidia/version
++++ sed 's/^$/unknown/'
+++ NV_DRIVER_VERS=
+++ export _CUDA_COMPAT_PATH=/usr/local/cuda/compat
+++ _CUDA_COMPAT_PATH=/usr/local/cuda/compat
++++ hostname
+++ _CUDA_COMPAT_CHECKFILE=/usr/local/cuda/compat/..slurmwkramdepyc9754-1.checked
+++ _CUDA_COMPAT_REALLIB=/usr/local/cuda/compat/lib.real
+++ _CUDA_COMPAT_SYMLINK=/usr/local/cuda/compat/lib
++++ nvidia-smi -q -d COMPUTE
++++ grep '^CUDA Version'
++++ sed 's/^.*: //'
+++ _RUNNING_CUDA_VERSION=
++++ echo 12.4.1.003
++++ cut -d . -f 1-2
+++ _CONTAINER_CUDA_VERSION=12.4
+++ '[' -e /dev/nvgpu -a '(' ' ' = 12.4 ')' ']'
+++ '[' '(' '(' -n '' -a -e /dev/nvidiactl ')' -o -e /dev/nvgpu ')' -a '!' -e /usr/local/cuda/compat/..slurmwkramdepyc9754-1.checked ']'
++++ cat /sys/module/mlx5_core/version
++++ true
+++ _DETECTED_MOFED=
+++ '[' -n '' ']'
+++ unset _DETECTED_MOFED
+++ unset _CUDA_COMPAT_CHECKFILE
+++ unset _CUDA_COMPAT_REALLIB
+++ unset _CUDA_COMPAT_SYMLINK
+++ unset _RUNNING_CUDA_VERSION
+++ unset _CONTAINER_CUDA_VERSION
++ '[' -z '' ']'
++ return
++ python3 -m pip install --upgrade pip
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
++ python3 -m pip install pandas matplotlib scikit-learn transformers accelerate
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+INFO:    Adding runscript
+INFO:    Creating SIF file...
+INFO:    Build complete: tinyllama/container.sif
