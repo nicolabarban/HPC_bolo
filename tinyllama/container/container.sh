@@ -1,12 +1,12 @@
 #!/bin/sh
 #SBATCH --job-name=cont
 #SBATCH --mail-type=all
-#SBATCH --mail-user=$USER@unibo.it
+#SBATCH --mail-user=n.barban@unibo.it
 #SBATCH --partition=amdepyc9754
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=64G
-#SBATCH --output=/scratch.hpc/$USER/dgit/tinyllama/container/build.log
-#SBATCH --error=/scratch.hpc/$USER/dgit/tinyllama/container/build.err
+#SBATCH --output=/scratch.hpc/$USER/HPC_bolo/tinyllama/container/build.log
+#SBATCH --error=/scratch.hpc/$USER/HPC_bolo/tinyllama/container/build.err
 
 mkdir -p /scratch.hpc/$USER/tinyllama/container-cache
 export APPTAINER_TMPDIR=/scratch.hpc/$USER/tinyllama/container-cache
