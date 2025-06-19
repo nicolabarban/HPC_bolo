@@ -12,4 +12,3 @@ alias log='cat logs/job.log'
 alias errcont='cat container/build.err'
 alias logcont='cat container/build.log'
 
-export PATH="$PATH:/scratch.hpc/$USER/

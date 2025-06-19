@@ -4,8 +4,8 @@ import time
 import pandas as pd
 
 # Parameters
-csv_input_path = "/scratch.hpc/YOUR.NAME/data/..."
-csv_output_path = "/scratch.hpc/YOUR.NAME/data/output/..."
+csv_input_path = "/scratch.hpc/$USER/data/..."
+csv_output_path = "/scratch.hpc/$USER/data/output/..."
 #sample_size = 100000
 max_new_tokens = 5
 model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
