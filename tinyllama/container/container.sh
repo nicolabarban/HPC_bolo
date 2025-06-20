@@ -12,4 +12,4 @@ mkdir -p /scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
 export APPTAINER_TMPDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
 export APPTAINER_CACHEDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
 cd /scratch.hpc/$USER/HPC_bolo
-apptainer build --force --ignore-fakeroot-command tinyllama/container.sif dgit/tinyllama/container/container.def
+apptainer build --force --ignore-fakeroot-command tinyllama/container.sif /tinyllama/container/container.def
