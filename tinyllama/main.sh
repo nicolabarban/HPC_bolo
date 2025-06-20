@@ -10,11 +10,11 @@
 #SBATCH --output=/scratch.hpc/YOUR.NAME/dgit/tinyllama/logs/job.log
 #SBATCH --error=/scratch.hpc/YOUR.NAME/dgit/tinyllama/logs/job.err
 
-mkdir -p /scratch.hpc/$USER/tinyllama/cache
-export APPTAINER_TMPDIR=/scratch.hpc/$USER/tinyllama/cache
-export APPTAINER_CACHEDIR=/scratch.hpc/$USER/tinyllama/cache
+mkdir -p /scratch.hpc/$USER/HPC_bolo/tinyllama/cache
+export APPTAINER_TMPDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/cache
+export APPTAINER_CACHEDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/cache
 export OMP_NUM_THREADS=64
-cd /scratch.hpc/$USER/
+cd /scratch.hpc/$USER/HPC_bolo/
 
 apptainer exec --nv tinyllama/container.sif python dgit/tinyllama/test_tasks.py
 
