@@ -2,8 +2,8 @@
 #SBATCH --job-name=cont
 #SBATCH --mail-type=all
 #SBATCH --mail-user=n.barban@unibo.it
-#SBATCH --partition=amdepyc9754
-#SBATCH --cpus-per-task=16
+#SBATCH --partition=sbuild
+#SBATCH --cpus-per-task=8
 #SBATCH --mem=64G
 #SBATCH --output=/scratch.hpc/$USER/HPC_bolo/tinyllama/container/build.log
 #SBATCH --error=/scratch.hpc/$USER/HPC_bolo/tinyllama/container/build.err
