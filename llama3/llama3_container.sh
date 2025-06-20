@@ -1,7 +1,7 @@
 #!/bin/bash34
 #SBATCH --nodes=1
-#SBATCH --partition=a100               # Or any GPU-enabled partition
-#SBATCH --gres=gpu:1
+#SBATCH --partition=l40s               # Or any GPU-enabled partition
+#SBATCH --gres=gpu:4
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=64G
 #SBATCH --output=/$USER/HPC_bolo/logs/build_llama3.out
