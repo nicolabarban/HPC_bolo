@@ -4,7 +4,7 @@ import time
 import pandas as pd
 
 # Parameters
-csv_input_path = "/scratch.hpc/$USER/data/HPC_bolo/task_trials"
+csv_input_path = "/scratch.hpc/$USER/data/HPC_bolo/tasks.txt"
 csv_output_path = "/scratch.hpc/$USER/data/HPC_bolo/output/skills_score.txt"
 sample_size = 100
 max_new_tokens = 5
