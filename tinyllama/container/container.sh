@@ -8,8 +8,10 @@
 #SBATCH --output=/scratch.hpc/$USER/HPC_bolo/tinyllama/container/build.log
 #SBATCH --error=/scratch.hpc/$USER/HPC_bolo/tinyllama/container/build.err
 
-mkdir -p /scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
 export APPTAINER_TMPDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
 export APPTAINER_CACHEDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
+export TMPDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/container-cache
+mkdir -p "$TMPDIR"
+
 cd /scratch.hpc/$USER/HPC_bolo/tinyllama/container/
 apptainer build --force --ignore-fakeroot-command container.sif container.def
