@@ -14,9 +14,9 @@ mkdir -p /scratch.hpc/$USER/HPC_bolo/tinyllama/cache
 export APPTAINER_TMPDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/cache
 export APPTAINER_CACHEDIR=/scratch.hpc/$USER/HPC_bolo/tinyllama/cache
 export OMP_NUM_THREADS=64
-cd /scratch.hpc/$USER/HPC_bolo/
+cd /scratch.hpc/$USER/HPC_bolo/tinyllama
 
-apptainer exec --nv tinyllama/container.sif python dgit/tinyllama/test_tasks.py
+apptainer exec --nv container/container.sif python test_tasks.py
 
 # otherwise: partition=h100sxm5
 # otherwise: partition=h100pcie
